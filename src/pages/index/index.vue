@@ -2,7 +2,7 @@
   <view class="content">
     <image class="logo" src="/static/logo.png"></image>
     <view>
-      <text class="title">{{ title }}122200</text>
+      <text class="title">{{ title }}122阿斯顿撒的撒200</text>
     </view>
   </view>
 </template>
